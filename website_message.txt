@@ -1,2 +1,0 @@
-TEST ONLY - Lightning website message publishing test.
-Please ignore.
